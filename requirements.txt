@@ -8,3 +8,4 @@ chromadb
 llama-index
 python-dotenv
 tqdm
+httpx
