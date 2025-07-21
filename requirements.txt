@@ -1,11 +1,6 @@
-streamlit==1.44.1
-langchain_community
-pandas
-numpy
-requests
+streamlit
 langchain
-chromadb
-llama-index
-python-dotenv
-tqdm
-httpx
+openai
+langchain_groq
+groq
+
